@@ -1,7 +1,7 @@
 /*
  * Convert a string to an integer.
  */
-
+#include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
